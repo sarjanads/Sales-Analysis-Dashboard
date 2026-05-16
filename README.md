@@ -1,13 +1,13 @@
-# Sales Analysis Dashboard
+# FNP Sales Analysis Dashboard
 
-This is an interactive Excel dashboard project created using Microsoft Excel.
+This is an interactive Excel dashboard project created using Microsoft Excel to analyze sales performance and customer trends.
 
 ## Features
 - Revenue Analysis
 - KPI Cards
-- Monthly Trends
-- Top Products
-- Top Cities
+- Monthly Revenue Trends
+- Top Products Analysis
+- Top Cities by Orders
 - Interactive Slicers
 
 ## Tools Used
@@ -17,9 +17,10 @@ This is an interactive Excel dashboard project created using Microsoft Excel.
 - Slicers
 
 ## Files Included
-- Dashboard Excel file
-- Raw dataset file
-- Dashboard screenshot
+- Fnp_Analysis.xlsx (Dashboard file)
+- customers.csv (Customer dataset)
+- orders.csv (Orders dataset)
+- products.csv (Products dataset)
 
 ## Dashboard Preview
 
