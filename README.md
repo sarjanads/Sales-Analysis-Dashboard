@@ -17,10 +17,10 @@ This is an interactive Excel dashboard project created using Microsoft Excel to 
 - Slicers
 
 ## Files Included
-- Fnp_Analysis.xlsx (Dashboard file)
-- customers.csv (Customer dataset)
-- orders.csv (Orders dataset)
-- products.csv (Products dataset)
+- [Dashboard File](Fnp_Analysis.xlsx)
+- [Customers Dataset](customers.csv)
+- [Orders Dataset](orders.csv)
+- [Products Dataset](products.csv)
 
 ## Dashboard Preview
 
