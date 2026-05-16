@@ -16,6 +16,11 @@ This is an interactive Excel dashboard project created using Microsoft Excel.
 - Pivot Charts
 - Slicers
 
+## Files Included
+- Dashboard Excel file
+- Raw dataset file
+- Dashboard screenshot
+
 ## Dashboard Preview
 
-![Dashboard](FNP_DASHBOARD.png)
+![Dashboard](Fnp_Dashboard.png)
